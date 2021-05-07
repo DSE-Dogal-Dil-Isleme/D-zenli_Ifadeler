@@ -1,1 +1,1 @@
-# D-zenli_Ifadeler
+# DÜZENLİ İFADELER (Regular Expressions)
